@@ -18,3 +18,7 @@ new AwsCdkStack(app, 'AwsCdkStack', {
 
   /* For more information, see https://docs.aws.amazon.com/cdk/latest/guide/environments.html */
 });
+
+// For additional stakc
+
+  // new OtherStack(app, 'OtherStack',{...})
